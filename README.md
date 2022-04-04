@@ -45,5 +45,12 @@ Charter schools generally performed better than District schools in this analysi
  ![average_scores_by_schooltype.png](https://github.com/klkanchi/School_District_Analysis/blob/main/average_schools_by_schooltype.format.png)
 
 
+  ## Summary:
   
+  After analyzing the average scores for math and reading by grade level for each school, it is found that a students grade level does not affect their scores as much as the school that they attend. The average scores within each school only varries by 1-2% depending on grade level. However, the difference in scores is more apparent when comparing different schools as shown.
+  
+ ![highest_performaing_schools.png](https://github.com/klkanchi/School_District_Analysis/blob/main/highest_performaing_schools.png)
+ 
+
+
 
